@@ -1,0 +1,21 @@
+/* Navbar.css */
+.custom-toggler .navbar-toggler-icon {
+    color: white; /* Change this to your desired color */
+    background-color: aqua;
+  }
+  
+  .nav-link:hover{
+    color: rgb(143, 143, 139);
+  }
+  .nav-link{
+    color: rgb(229, 229, 214);
+  }
+  .navbar{
+    background-color: blue;
+  }
+  .navbar-brand{
+    color: rgb(227, 227, 236);
+  }
+  .navbar-brand:hover{
+    color: rgb(181, 135, 195);
+  }
